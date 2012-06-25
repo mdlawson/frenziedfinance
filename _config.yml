@@ -2,7 +2,7 @@ auto: true
 server: false
 permalink: none
 markdown: rdiscount
-baseurl: ""
+baseurl: "FrenziedFinance"
 exclude:
 - .gitignore
 - README.md
@@ -16,6 +16,6 @@ prose:
       title: Your Post Title
       abstract: Short summary of your article.
       author_twitter: johndoe
-      author: John Doe
+      author: Andrew Lawson
       categories:
       - articles
