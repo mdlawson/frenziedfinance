@@ -2,7 +2,7 @@ auto: true
 server: true
 permalink: none
 markdown: rdiscount
-baseurl: ""
+baseurl: "frenziedfinance"
 exclude:
 - .gitignore
 - README.md
